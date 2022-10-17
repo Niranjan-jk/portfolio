@@ -1,29 +1,29 @@
 {
     "main": {
-        "name": "Baizid MD Ashadzzaman",
-        "shortname": "Zaman",
+        "name": "Niranjan",
+        "shortname": "Niranjan",
         "occupation": "Developer / Programmer / Engineer",
         "description": "Eat, sleep, code, repeat.",
-        "yearofexperience": "05",
-        "age": "25",
+        "yearofexperience": "01",
+        "age": "22",
         "designation": "Software engineer",
         "image": "/images/photo.png",
         "fullimage": "/images/myphoto1.jpg",
-        "bio": "Hi there! I have been very passionate about computers and programming since my university life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me to achieve my goal.",
+        "bio": "Hi there! I have been very passionate about computers and programming since my school life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me achieve my goal.",
         "contactmessage": "Get in touch with me to to build any software for your business.!",
-        "email": "baizid.md.ashadzzaman@gmail.com",
-        "phone": "+88 01862420119",
+        "email": "nira381@gmail.com",
+        "phone": "+91 7358686576",
         "mapaddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3690.6698920746726!2d91.8166201143615!3d22.328320947520915!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30acd8b3c659a4fb%3A0xcf4c00425d483eb6!2s12%20Quarter%20Ln%2C%20Chittagong!5e0!3m2!1sen!2sbd!4v1631249930628!5m2!1sen!2sbd",
         "address": {
-            "street": "Pahartoli 12 quater",
-            "city": "Chittagong",
-            "state": "Bangladesh",
-            "zip": "4202"
+            "street": "Palkalai nagar",
+            "city": "chennai",
+            "state": "Tamil Nadu",
+            "zip": "600041"
         },
         "quotes1": {
             "sectiontitle": "My resume",
             "title": "I Would Love to make your Ideas real",
-            "description": "I love graphic design and photography and have been working on my portfolio since 2016. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
+            "description": "I love graphic design and photography and have been working on my portfolio since 2022. You can download my resume in order to learn the details of my professional life as a designer and photographer. Contact me and we will discuss your projects!"
         },
         "quotes2": {
             "sectiontitle": "",
@@ -31,35 +31,35 @@
             "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. At, corrupti odit? At iure facere, porro repellat officia quas, dolores magnam assumenda soluta odit harum voluptate inventore ipsa maiores fugiat accusamus eos nulla. Iure voluptatibus explicabo officia."
         },
         "workabout": {
-            "completedproject": "100",
-            "inprogressproject": "20",
-            "awardrecived": "15",
-            "happyclinet": "100"
+            "completedproject": "3",
+            "inprogressproject": "2",
+            "awardrecived": "1",
+            "happyclinet": "2"
         },
-        "resumedownload": "https://drive.google.com/file/d/1HuLXxOB6dL58AcupKZ9qhRr7739EXLML/view",
+        "resumedownload": "",
         "social": [{
                 "name": "youtube",
-                "url": "https://www.youtube.com/channel/UCGP5kbtnscx5uTN5suCZfMA?view_as=subscriber",
+                "url": "",
                 "className": "fa fa-youtube"
             },
             {
                 "name": "facebook",
-                "url": "https://www.facebook.com/asadzaman0167",
+                "url": "https://www.facebook.com/Niranjan",
                 "className": "fa fa-facebook"
             },
             {
                 "name": "linkedin",
-                "url": "https://www.linkedin.com/in/zamanasad/",
+                "url": "https://www.linkedin.com/in/Niranjan/",
                 "className": "fa fa-linkedin"
             },
             {
                 "name": "instagram",
-                "url": "https://www.instagram.com/iamasadzaman/",
+                "url": "https://www.instagram.com/litteboiy/",
                 "className": "fa fa-instagram"
             },
             {
                 "name": "github",
-                "url": "https://github.com/Baizidmdashadzzaman",
+                "url": "https://github.com/Niranjan",
                 "className": "fa fa-github"
             }
         ]
@@ -67,16 +67,16 @@
     "resume": {
         "skillmessage": "My Programming Language Proficiency",
         "education": [{
-            "school": "International Islamic University Chittagong.",
+            "school": "Hindu Senior Secondary school.",
             "degree": "Bachelor's Degree, Computer Science",
             "graduated": "July 2018",
             "description": "Graduated with First Class Honours"
         }],
         "work": [{
-            "company": "Scandicsoft",
+            "company": "Gabriel",
             "title": "Software engineer",
-            "years": "Jan 2018 - Present",
-            "description": "Developing some userfriendly and best software."
+            "years": "oct 2022 - Present",
+            "description": "Developing some userfriendly software."
         }],
         "skillssectiontitle":"Motivated by the Desire to achieve Success",
         "skillssectiondescription":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, odit! Perspiciatis et consequuntur non, modi quo mollitia labore laborum voluptas quia officiis fugit soluta molestias quaerat sapiente sunt. ",
