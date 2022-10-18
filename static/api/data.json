@@ -126,13 +126,13 @@
     "testimonials": {
         "testimonials": [{
                 "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
-                "clientname": "John wilson",
-                "clientaddress": "Seattle, Washington"
+                "clientname": "Elon Musk",
+                "clientaddress": "Texas, USA"
             },
             {
                 "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit beatae laudantium voluptate rem ullam dolore nisi voluptatibus esse quasi, doloribus tempora. Dolores molestias adipisci dolor sit amet!.",
-                "clientname": "David haris",
-                "clientaddress": "London, England"
+                "clientname": "Jeff Bezos",
+                "clientaddress": "Texas, USA"
             }
         ]
     },
