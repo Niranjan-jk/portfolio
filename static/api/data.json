@@ -7,7 +7,7 @@
         "yearofexperience": "01",
         "age": "22",
         "designation": "Software engineer",
-        "image": "/images/photo.png",
+        "image": "/images/myphoto1.png",
         "fullimage": "/images/myphoto1.jpg",
         "bio": "Hi there! I have been very passionate about computers and programming since my school life. I dream to be an expert software engineer so that I can build professional and useful software that has business value. I am looking for a junior software engineer position in a reputed software company that can help me achieve my goal.",
         "contactmessage": "Get in touch with me to to build any software for your business.!",
@@ -81,11 +81,11 @@
         "skillssectiontitle":"Motivated by the Desire to achieve Success",
         "skillssectiondescription":"Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolorem, odit! Perspiciatis et consequuntur non, modi quo mollitia labore laborum voluptas quia officiis fugit soluta molestias quaerat sapiente sunt. ",
         "skills": [{
-                "name": "Php",
+                "name": "javascript",
                 "level": "90%"
             },
             {
-                "name": "Python",
+                "name": "Node",
                 "level": "60%"
             },
             {
@@ -93,7 +93,7 @@
                 "level": "70%"
             },
             {
-                "name": "React",
+                "name": "Nuxt",
                 "level": "50%"
             },
             {
